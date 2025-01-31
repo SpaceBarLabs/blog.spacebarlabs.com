@@ -40,7 +40,19 @@ BridgeIt has a number of improvements to its operating instructions that make it
 
 Like all good software companies, we update our dependencies regularly.  We also clean up unused code regularly.  We also are continuing to build out test coverage so that we can be more confident in how BridgeIt behaves.
 
-## What does signing up look like?
+## What does it look like?
+
+Here are some screenshots of the new BridgeIt:
+
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.51.28.png" alt="Landing Page" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.52.43.png" alt="Sign Up Form" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.54.01.png" alt="Filled in Sign Up form with referral code BLOG15OFF" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.54.17.png" alt="Welcome page" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.54.33.png" alt="SMS buttons and QR codes" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.54.39.png" alt="Supported languages" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.54.56.png" alt="Forign language input help" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.55.07.png" alt="Methods of providing feedback" style="width: 45%;" />
+<img src="/assets/2025-01-31/Screen Shot 2025-01-31 at 16.55.21.png" alt="How to help us by sharing BridgeIt" style="width: 45%;" />
 
 ## Sign up and start practicing with BridgeIt today!
 
