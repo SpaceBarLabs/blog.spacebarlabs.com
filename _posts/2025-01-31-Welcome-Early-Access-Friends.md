@@ -6,7 +6,7 @@ date:   2025-01-31
 
 # The BridgeIt Early Access Alpha is Here!
 
-Hello Bridge Builders! We're excited to announce that the BridgeIt Early Access Alpha is now available!
+Hello Bridge Builders! We're excited to announce that the [BridgeIt Early Access Alpha](https://apps.spacebarlabs.com) is now available!
 
 This completes 2 weeks of work on BridgeIt. We've been working hard to get this out to you and we're excited to see what you think.
 
