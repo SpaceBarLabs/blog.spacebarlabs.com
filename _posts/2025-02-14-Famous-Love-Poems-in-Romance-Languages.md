@@ -5,7 +5,7 @@ category: ""
 date:   2025-02-14
 ---
 
-Happy Valentine's Day! Today, we're going to learn a Romance language with BridgeIt by reading famous love poems. Romance languages are a group of languages that evolved from Latin, the language of the Roman Empire. They include Spanish, French, Italian, Portuguese, and Romanian.
+Happy Valentine's Day! Today, we're going to learn about Romance languages with BridgeIt by reading famous love poems. Romance languages are a group of languages that evolved from Latin, the language of the Roman Empire. They include Spanish, French, Italian, Portuguese, and Romanian.
 
 Here's a selection of famous love poems in each of these languages. Read them and see if you can identify any similarities or differences between the languages.
 
