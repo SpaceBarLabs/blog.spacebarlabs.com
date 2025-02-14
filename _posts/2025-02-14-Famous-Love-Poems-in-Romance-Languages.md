@@ -102,26 +102,33 @@ Mas como causar pode seu favor \
 
 "Ce te legeni?" – Mihai Eminescu
 
-Ce te legeni, codrule, \
- Fără ploaie, fără vânt, \
- Cu crengile la pământ? \
-De ce nu m-aș legăna, \
- Dacă trece vremea mea! \
+În formă populară
+
+– „Ce te legeni, codrule, \
+Fără ploaie, fără vânt, \
+Cu crengile la pământ?" \
+– „De ce nu m-aș legăna, \
+Dacă trece vremea mea! \
 Ziua scade, noaptea crește \
- Și frunzișul mi-l rărește. \
-Bate vântul frunza-n dungă – \
- Cântăreții mi-i alungă; \
-Bate vântul dintr-o parte – \
- Iarna-i ici, vara-i departe. \
+Și frunzișul mi-l rărește. \
+Bate vântul frunza-n dungă - \
+Cântăreții mi-i alungă; \
+Bate vântul dintr-o parte - \
+Iarna-i ici, vara-i departe. \
 Și de ce să nu mă plec, \
- Dacă păsările trec! \
-Dacă ne iubim întruna, \
- Vine toamna, trece luna. \
-Frunza galbenă mă doare, \
- Frunza verde mi-e o stare. \
-Ce te legeni, codrule, \
- Fără ploaie, fără vânt, \
- Cu crengile la pământ?
+Dacă păsările trec! \
+Peste vârf de rămurele \
+Trec în stoluri rândunele, \
+Ducând gândurile mele \
+Și norocul meu cu ele. \
+Și se duc pe rând pe rând, \
+Zarea lumii-ntunecând, \
+Și se duc ca clipele, \
+Scuturând aripele, \
+Și mă lasă pustiit, \
+Veștejit și amorțit \
+Și cu doru-mi singurel, \
+De mă-ngân numai cu el!"
 
 <a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Learn Romanian with BridgeIt</a>
 
