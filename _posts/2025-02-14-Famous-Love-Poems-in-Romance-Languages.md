@@ -26,7 +26,10 @@ en mi pupila tu pupila azul. \
 ¿Qué es poesía? ¿Y tú me lo preguntas? \
 Poesía... eres tú.
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=es-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Spanish with BridgeIt</a>
+<ul>
+<li><a href="sms:+18568807734?body=explica este poema en español">Explica este poema en español</a></li>
+<li><a href="https://apps.spacebarlabs.com/users/sign_up?rby=es-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Spanish with BridgeIt</a></li>
+</ul>
 
 ## French (Français)
 
@@ -80,7 +83,10 @@ Qui me monte à la tête \
 Quand je suis sûr de moi \
 Quand je suis sûr de moi
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=fr-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your French with BridgeIt</a>
+<ul>
+<li><a href="sms:+18568807734?body=explique ce poème en français">Explique ce poème en français</a></li>
+<li><a href="https://apps.spacebarlabs.com/users/sign_up?rby=fr-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your French with BridgeIt</a></li>
+</ul>
 
 ## Italian (Italiano)
 
@@ -104,7 +110,10 @@ e benedette sian tutte le carte \
 ov’io fama l’acquisto, e ’l pensier mio, \
 ch’è sol di lei, sì ch’altra non v’ha parte.
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Italian with BridgeIt</a>
+<ul>
+<li><a href="sms:+18568807734?body=spiega questa poesia in italiano">Spiega questa poesia in italiano</a></li>
+<li><a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Italian with BridgeIt</a></li>
+</ul>
 
 ## Portuguese (Português)
 
@@ -128,7 +137,10 @@ Mas como causar pode seu favor \
 nos corações humanos amizade, \
 se tão contrário a si é o mesmo Amor
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Portuguese with BridgeIt</a>
+<ul>
+<li><a href="sms:+18568807734?body=explique este poema em português">Explique este poema em português</a></li>
+<li><a href="https://apps.spacebarlabs.com/users/sign_up?rby=pt-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Portuguese with BridgeIt</a></li>
+</ul>
 
 ## Romanian (Română)
 
@@ -162,7 +174,10 @@ Veștejit și amorțit \
 Și cu doru-mi singurel, \
 De mă-ngân numai cu el!"
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Romanian with BridgeIt</a>
+<ul>
+<li><a href="sms:+18568807734?body=explicați acest poem în română">Explicați acest poem în română</a></li>
+<li><a href="https://apps.spacebarlabs.com/users/sign_up?rby=ro-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Romanian with BridgeIt</a></li>
+</ul>
 
 <center>
     <form action="https://apps.spacebarlabs.com/users/sign_up?rby=2025-02-14-Famous-Love-Poems-in-Romance-Languages">
