@@ -26,7 +26,7 @@ en mi pupila tu pupila azul. \
 ¿Qué es poesía? ¿Y tú me lo preguntas? \
 Poesía... eres tú.
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=es-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Learn Spanish with BridgeIt</a>
+<a href="https://apps.spacebarlabs.com/users/sign_up?rby=es-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Spanish with BridgeIt</a>
 
 ## French (Français)
 
@@ -80,7 +80,7 @@ Qui me monte à la tête \
 Quand je suis sûr de moi \
 Quand je suis sûr de moi
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=fr-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Learn French with BridgeIt</a>
+<a href="https://apps.spacebarlabs.com/users/sign_up?rby=fr-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your French with BridgeIt</a>
 
 ## Italian (Italiano)
 
@@ -104,7 +104,7 @@ e benedette sian tutte le carte \
 ov’io fama l’acquisto, e ’l pensier mio, \
 ch’è sol di lei, sì ch’altra non v’ha parte.
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Learn Italian with BridgeIt</a>
+<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Italian with BridgeIt</a>
 
 ## Portuguese (Português)
 
@@ -128,7 +128,7 @@ Mas como causar pode seu favor \
 nos corações humanos amizade, \
 se tão contrário a si é o mesmo Amor
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Learn Portuguese with BridgeIt</a>
+<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Portuguese with BridgeIt</a>
 
 ## Romanian (Română)
 
@@ -162,7 +162,7 @@ Veștejit și amorțit \
 Și cu doru-mi singurel, \
 De mă-ngân numai cu el!"
 
-<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Learn Romanian with BridgeIt</a>
+<a href="https://apps.spacebarlabs.com/users/sign_up?rby=it-2025-02-14-Famous-Love-Poems-in-Romance-Languages">Practice your Romanian with BridgeIt</a>
 
 <center>
     <form action="https://apps.spacebarlabs.com/users/sign_up?rby=2025-02-14-Famous-Love-Poems-in-Romance-Languages">
