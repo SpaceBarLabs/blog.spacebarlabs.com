@@ -5,7 +5,6 @@ category: ""
 date:   2025-02-28
 ---
 
-## Building BridgeIt for growth
 Hi everyone!
 
 Ben here.  Over the last couple of weeks, both Zach and I have been sick and/or traveling off-and-on.  Even so, we've still gotten some good work done over the last couple of weeks.  Here's what we've been up to:
@@ -36,7 +35,7 @@ Perhaps the biggest change: you can now subscribe to BridgeIt!  This is a way to
 >
 > Thank you for reading. We appreciate your support!
 >
-> - Ben and Zach
+> Ben and Zach
 >
 > P.S. Have feedback? You can reach us at feedback@spacebarlabs.com
 
