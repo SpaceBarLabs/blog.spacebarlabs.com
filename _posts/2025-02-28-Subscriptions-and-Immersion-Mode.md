@@ -29,7 +29,7 @@ Perhaps the biggest change: you can now subscribe to BridgeIt!  This is a way to
 >
 > BridgeIt is a free service and will continue to have a free tier for the foreseeable future. However, we do offer a subscription plan for users who want to support our service and unlock premium features in the future.
 >
-> For now, a subscription will help us cover the costs of running the service and allow us to continue improving it. This can be seen as "early access" as some other products offer. The subscription does not currently offer additional features.
+> For now, a subscription will help us cover the costs of running the service and allow us to continue improving it. This can be seen as "[early access](https://en.wikipedia.org/wiki/Early_access)" as some other products offer. The subscription does not currently offer additional features.
 >
 > Why pay? When you choose to pay for a subscription, you are voting that BridgeIt is interesting and worth continuing to develop. Your choice will help us to continue work on this independent software product. We are a small company, just a team of 2. We are working very hard to bring BridgeIt to life. The money you pay goes directly towards our improving our service and paying us individually for our time spent making BridgeIt a reality. This is our full time job and your support makes that possible.
 >
