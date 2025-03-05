@@ -27,6 +27,9 @@ url: "https://blog.spacebarlabs.com/" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+# Google Analytics
+google_analytics: "G-6SRF7K4K1C"
+
 # Build settings
 theme: minima
 plugins:
