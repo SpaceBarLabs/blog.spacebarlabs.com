@@ -4,6 +4,12 @@ title: "BridgeIt Update: Good Morning Messages and More!"
 date: 2025-03-14
 ---
 
+Hi everyone!
+
+We've been heads down working on making BridgeIt even better for our growing community, and today we're excited to share some meaningful improvements we've made.
+
+## We Have a New Logo!
+
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 1em;">
         <img src="/assets/2025-03-14/bridgeit_logo.svg" alt="BridgeIt Logo" style="width: 80px; height: 80px; margin: 0 8px;">
@@ -12,13 +18,11 @@ date: 2025-03-14
     </div>
 </div>
 
-Hi everyone!
-
-We've been heads down working on making BridgeIt even better for our growing community, and today we're excited to share some meaningful improvements we've made.
+We're pretty happy with how it turned out, and we hope you like it too! We think it captures the spirit of bridging cultures and the journey we're on together.
 
 ## Introducing Good Morning Messages! 🌅
 
-The biggest news is the launch of our Good Morning Messages feature for users in immersion mode. This is something we're particularly excited about because it helps create those small, daily moments of language practice that really add up over time.
+The biggest news is the launch of our Good Morning Messages feature for users in immersive mode. This is something we're particularly excited about because it helps create those small, daily moments of language practice that really add up over time.
 
 Every morning, BridgeIt will greet you in your target language, helping you start your day with a touch of immersion. Here's how it looks:
 
@@ -56,6 +60,19 @@ Every morning, BridgeIt will greet you in your target language, helping you star
 We've also made several improvements to make BridgeIt more user-friendly:
 
 - **Better Error Handling**: We've significantly improved our error messages and form validations. Now you'll get clearer, more helpful feedback when something doesn't work as expected.
+
+Here's an example of a field with an error:
+
+<div style="display: flex; justify-content: center;">
+<img src="/assets/2025-03-14/field-error.png" alt="Field Error">
+</div>
+
+And an example of errors on a form:
+
+<div style="display: flex; justify-content: center;">
+<img src="/assets/2025-03-14/form-error.png" alt="Form Error">
+</div>
+
 - **Simplified Sign-up**: We've streamlined our registration and authentication flows to make it easier to get started with BridgeIt.
 - **Behind the Scenes**: We've updated our dependencies and improved our test coverage to keep BridgeIt running smoothly and reliably.
 
@@ -75,13 +92,11 @@ For those interested in the technical side:
 - **Better Error Handling**: More informative error messages and improved system stability
 - **Web Chat Interface**: We're working on a web-based chat experience (coming soon!)
 
-
-
 ## Try It Out!
 
-If you haven't enabled immersion mode yet, now is a great time to try it out and start receiving Good Morning Messages! You can enable it in your [preferences](https://apps.spacebarlabs.com/preferences).
+If you haven't enabled immersion mode yet, now is a great time to try it out and start receiving Good Morning Messages! You can enable it in your [preferences](https://apps.spacebarlabs.com/preferences).  Be sure to enable immersive mode and set the learning language that you'd like to receive messages in.
 
-We'd love to hear what you think about these updates, especially the Good Morning Messages feature. Drop us a line at feedback@spacebarlabs.com or join the conversation in our [Discord server](https://discord.gg/drPR7dv5vS).
+We'd love to hear what you think about these updates, especially the Good Morning Messages feature. Drop us a line at [feedback@spacebarlabs.com](mailto:feedback@spacebarlabs.com) or join the conversation in our [Discord server](https://discord.gg/drPR7dv5vS).
 
 As always, thank you for being part of our early access community. Your feedback and support help make BridgeIt better every day.
 
