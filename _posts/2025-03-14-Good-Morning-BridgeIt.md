@@ -6,7 +6,7 @@ date: 2025-03-14
 
 Hi everyone!
 
-We've been heads down working on making BridgeIt even better for our growing community, and today we're excited to share some meaningful improvements we've made.
+We've been heads down working on making [BridgeIt](https://apps.spacebarlabs.com/) even better for our growing community, and today we're excited to share some meaningful improvements we've made.
 
 ## We Have a New Logo!
 
