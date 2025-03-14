@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceBar Labs - Android Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Google Sans", Roboto, Arial, sans-serif;
+        }
+
+        body {
+            background-color: #1F1F1F;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .phone-container {
+            width: 340px;
+            height: 720px;
+            background: #121212;
+            border-radius: 25px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 0 40px rgba(0,0,0,0.3);
+            border: 12px solid #2D2D2D;
+            position: relative;
+        }
+
+        .status-bar {
+            height: 24px;
+            background: #1F1F1F;
+            position: relative;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 0 16px;
+            color: #FFFFFF;
+            font-size: 12px;
+        }
+
+        .header {
+            background: #1F1F1F;
+            padding: 16px;
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #2D2D2D;
+        }
+
+        .back-button {
+            color: #8AB4F8;
+            font-size: 24px;
+            margin-right: 16px;
+        }
+
+        .header-content {
+            flex: 1;
+        }
+
+        .header h2 {
+            color: #FFFFFF;
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        .header .status {
+            color: #9AA0A6;
+            font-size: 14px;
+            margin-top: 2px;
+        }
+
+        .chat-container {
+            padding: 16px;
+            height: calc(100% - 80px);
+            overflow-y: auto;
+            background: #121212;
+            /* Material Design scrollbar */
+            scrollbar-width: thin;
+            scrollbar-color: #8AB4F8 #1F1F1F;
+        }
+
+        /* For WebKit browsers (Chrome, Safari) */
+        .chat-container::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .chat-container::-webkit-scrollbar-track {
+            background: #1F1F1F;
+            border-radius: 4px;
+        }
+
+        .chat-container::-webkit-scrollbar-thumb {
+            background-color: #8AB4F8;
+            border-radius: 4px;
+            opacity: 0.7;
+        }
+
+        .chat-container::-webkit-scrollbar-thumb:hover {
+            background-color: #9CC1FF;
+        }
+
+        .message {
+            max-width: 80%;
+            margin-bottom: 16px;
+            clear: both;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .message.received {
+            float: left;
+            align-items: flex-start;
+        }
+
+        .message.sent {
+            float: right;
+            align-items: flex-end;
+        }
+
+        .message-bubble {
+            padding: 12px 16px;
+            border-radius: 20px;
+            font-size: 16px;
+            line-height: 1.4;
+            margin-bottom: 4px;
+        }
+
+        .received .message-bubble {
+            background: #2D2D2D;
+            color: #FFFFFF;
+            border-bottom-left-radius: 4px;
+        }
+
+        .sent .message-bubble {
+            background: #8AB4F8;
+            color: #000000;
+            border-bottom-right-radius: 4px;
+        }
+
+        .time {
+            font-size: 12px;
+            color: #9AA0A6;
+            margin-top: 2px;
+        }
+
+        /* Add notch styling */
+        .phone-container::before {
+            content: '';
+            position: absolute;
+            width: 140px;
+            height: 24px;
+            background: #2D2D2D;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            border-bottom-left-radius: 12px;
+            border-bottom-right-radius: 12px;
+            z-index: 2;
+        }
+
+        /* Add side button styling */
+        .phone-container::after {
+            content: '';
+            position: absolute;
+            width: 3px;
+            height: 50px;
+            background: #2D2D2D;
+            right: -15px;
+            top: 100px;
+            border-radius: 3px;
+        }
+
+        /* Volume buttons */
+        .phone-container .volume-buttons {
+            position: absolute;
+            left: -15px;
+            top: 90px;
+            width: 3px;
+            height: 85px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .phone-container .volume-button {
+            width: 3px;
+            height: 35px;
+            background: #2D2D2D;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="phone-container">
+        <div class="volume-buttons">
+            <div class="volume-button"></div>
+            <div class="volume-button"></div>
+        </div>
+        <div class="status-bar">12:00</div>
+        <div class="header">
+            <div class="back-button">←</div>
+            <div class="header-content">
+                <h2>BridgeIt</h2>
+                <div class="status">Messages</div>
+            </div>
+        </div>
+        <div class="chat-container">
+            <div class="message sent">
+                <div class="message-bubble">Guten Morgen!</div>
+                <div class="time">11:00</div>
+            </div>
+            <div class="message received">
+                <div class="message-bubble">Hallo! Ich bin... gut. Wie sagt man 'learning'?</div>
+                <div class="time">11:02</div>
+            </div>
+            <div class="message sent">
+                <div class="message-bubble">Das Wort ist 'lernen'. Möchtest du Deutsch üben?</div>
+                <div class="time">11:03</div>
+            </div>
+            <div class="message received">
+                <div class="message-bubble">Ja! Ich mochte... uben. Mein Deutsch ist nicht gut.</div>
+                <div class="time">11:05</div>
+            </div>
+            <div class="message sent">
+                <div class="message-bubble">Keine Sorge! Ich bin hier, um dir beim Üben zu helfen. Was machst du gerne?</div>
+                <div class="time">11:06</div>
+            </div>
+            <div class="message received">
+                <div class="message-bubble">Sorry... ich verstehe nicht.</div>
+                <div class="time">11:07</div>
+            </div>
+            <div class="message sent">
+                <div class="message-bubble">Kein Problem! Let me help - I asked "What do you like to do?" We can practice with simpler sentences.</div>
+                <div class="time">11:08</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
